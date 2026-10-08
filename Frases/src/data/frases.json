@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "text": "¿Sabías que dependiendo del color del lóbulo de las gallinas, los huevos saldrán de un color u otro?"
+  },
+  {
+    "id": 2,
+    "text": "Estoy seguro de que te gusta la pizza con ananá ¿me equivoco?"
+  },
+  {
+    "id": 3,
+    "text": "¿A que famoso (deportista, actor, cantante) le pedirías una foto? ¿Y un autógrafo?"
+  },
+  {
+    "id": 4,
+    "text": "Las avestruces no entierran la cabeza debajo del suelo. Simplemente bajan la cabeza a ras del suelo para poner la oreja"
+  },
+  {
+    "id": 5,
+    "text": "La famosa Big Mac está compuesta de más de 70 ingredientes"
+  },
+  {
+    "id": 6,
+    "text": "La Biblia es el libro más descargado en las tablets digitales de lectura"
+  },
+  {
+    "id": 7,
+    "text": "El 60% de los británicos cree que Sherlock Holmes es un personaje real, frente al 20% que cree que Winston Churchill es ficticio"
+  },
+  {
+    "id": 8,
+    "text": "Los cerdos no pueden tumbarse boca arriba. Es imposible físicamente"
+  },
+  {
+    "id": 9,
+    "text": "El pulmón izquierdo es más pequeño. Esto es para dejar espacio al corazón"
+  },
+  {
+    "id": 10,
+    "text": "Al nacer lo hacemos con 300 huesos que, a medida que vamos creciendo, acaban siendo 200"
+  },
+  {
+    "id": 11,
+    "text": "¿Sabías que la dinamita necesita cacahuetes para su fabricación?"
+  },
+  {
+    "id": 12,
+    "text": "Los mosquitos pican especialmente a las personas consumidoras de plátano"
+  },
+  {
+    "id": 13,
+    "text": "El hombre medio avista a 5 mujeres al día con las que le gustaría mantener relaciones sexuales"
+  },
+  {
+    "id": 14,
+    "text": "Las pupilas se dilatan tanto cuando odias a alguien como cuando te gusta"
+  },
+  {
+    "id": 15,
+    "text": "El ser humano es incapaz de saborear la comida si no tiene saliva"
+  },
+  {
+    "id": 16,
+    "text": "¿Gato o perro?"
+  },
+  {
+    "id": 17,
+    "text": "Hay algo hermoso en tus ojos: mi reflejo"
+  },
+  {
+    "id": 18,
+    "text": "Es una pregunta de vida o muerte: ¿chocolatada con o sin azucar?"
+  },
+  {
+    "id": 19,
+    "text": "¿Dónde te criaste?"
+  },
+  {
+    "id": 20,
+    "text": "¿Tienes mascotas?"
+  },
+  {
+    "id": 21,
+    "text": "¿Tienes hermanos?"
+  },
+  {
+    "id": 22,
+    "text": "¿Te has dado cuenta de lo que quiere decir tu nombre?"
+  },
+  {
+    "id": 23,
+    "text": "¿Qué marca de móvil tienes?"
+  },
+  {
+    "id": 24,
+    "text": "¿Qué te gusta hacer en tu tiempo libre?"
+  },
+  {
+    "id": 25,
+    "text": "Lo primero que haces cuando te levantas, ¿qué es?"
+  },
+  {
+    "id": 26,
+    "text": "¿Cuál es la última cosa que haces antes de irte a dormir?"
+  },
+  {
+    "id": 27,
+    "text": "¿Qué es lo último que compraste?"
+  },
+  {
+    "id": 28,
+    "text": "¿Cómo son tus vacaciones ideales?"
+  },
+  {
+    "id": 29,
+    "text": "¿Tu día preferido de la semana?"
+  },
+  {
+    "id": 30,
+    "text": "Si tuvieras que conocer a un personaje histórico, ¿quién sería?"
+  },
+  {
+    "id": 31,
+    "text": "¿Qué es lo que haces para relajarte?"
+  },
+  {
+    "id": 32,
+    "text": "¿Qué es lo primero que recuerdas de tu infancia?"
+  },
+  {
+    "id": 33,
+    "text": "¿Qué tipo de niño/a eras?"
+  },
+  {
+    "id": 34,
+    "text": "¿Qué es lo que echas de menos de ser un niño/a?"
+  },
+  {
+    "id": 35,
+    "text": "Cuando eras pequeño, ¿qué decías que te gustaría ser?"
+  },
+  {
+    "id": 36,
+    "text": "¿Ahorrador o derrochador?"
+  },
+  {
+    "id": 37,
+    "text": "¿Tocas algún instrumento?"
+  },
+  {
+    "id": 38,
+    "text": "¿Qué es en lo primero que te fijas de un chico/a?"
+  },
+  {
+    "id": 39,
+    "text": "¿Cómo es tu manera de desconectar?"
+  },
+  {
+    "id": 40,
+    "text": "¿Prefieres el pelo corto o largo?"
+  },
+  {
+    "id": 41,
+    "text": "¿Prefieres ser rico sin encontrar a tu amor, o ser pobre y tener a ese amor?"
+  },
+  {
+    "id": 42,
+    "text": "¿Eres más de perros o de gatos?"
+  },
+  {
+    "id": 43,
+    "text": "¿Qué película de Disney es tu favorita?"
+  },
+  {
+    "id": 44,
+    "text": "¿Cuál es tu bebida refrescante preferida?"
+  },
+  {
+    "id": 45,
+    "text": "¿Prefieres el frío o el calor?"
+  },
+  {
+    "id": 46,
+    "text": "¿Marvel o DC?"
+  },
+  {
+    "id": 47,
+    "text": "¿Eres más de día o de noche?"
+  },
+  {
+    "id": 48,
+    "text": "¿Qué tres objetos te llevarías a una isla desierta?"
+  },
+  {
+    "id": 49,
+    "text": "¿Cuál es tu canción favorita?"
+  },
+  {
+    "id": 50,
+    "text": "¿Cuál es tu película favorita?"
+  },
+  {
+    "id": 51,
+    "text": "¿Prefieres el mar o la montaña?"
+  },
+  {
+    "id": 52,
+    "text": "¿Cuál es tu estación favorita del año?"
+  },
+  {
+    "id": 53,
+    "text": "¿Cuál es tu superhéroe favorito?"
+  },
+  {
+    "id": 54,
+    "text": "¿Cuál sería tu cita ideal?"
+  },
+  {
+    "id": 55,
+    "text": "La guerra de los 100 años duró 116 años."
+  },
+  {
+    "id": 56,
+    "text": "Los huesos de las aves son huecos"
+  },
+  {
+    "id": 57,
+    "text": "Los peces chicos no se aburren en las peceras porque su memoria solo dura dos minutos y es como si volvieran a nacer"
+  },
+  {
+    "id": 58,
+    "text": "Una persona morirá más rápido por no dormir que por no comer, el hombre solo puede aguantar 10 días sin sueño, y puede estar varias semanas sin comer"
+  },
+  {
+    "id": 59,
+    "text": "Un koala puede vivir toda su vida sin tomar agua"
+  },
+  {
+    "id": 60,
+    "text": "El Vaticano posee la cantidad de dinero suficiente para acabar con la pobreza mundial dos veces"
+  },
+  {
+    "id": 61,
+    "text": "Si metes una Coca Light en un recipiente con agua, flota.Si lo haces con una de Coca-Cola normal, se hunde"
+  },
+  {
+    "id": 62,
+    "text": "El músculo más potente del cuerpo humano es la lengua"
+  },
+  {
+    "id": 63,
+    "text": "¿Cuántos hijos quisieras tener?"
+  },
+  {
+    "id": 64,
+    "text": "¿De qué equipo eres?"
+  },
+  {
+    "id": 65,
+    "text": "¿Cuál fue tu mejor viaje?"
+  },
+  {
+    "id": 66,
+    "text": "¿Si pudieras viajar a cualquier país, dónde irías?"
+  },
+  {
+    "id": 67,
+    "text": "¿Cuál es tu serie favorita?"
+  },
+  {
+    "id": 68,
+    "text": "¿Cuál es tu postre favorito?"
+  },
+  {
+    "id": 69,
+    "text": "¿Dónde naciste?"
+  },
+  {
+    "id": 70,
+    "text": "¿Cuál era tu serie favorita en tu infancia?"
+  },
+  {
+    "id": 71,
+    "text": "¿Cuál es tu cantante favorito?"
+  },
+  {
+    "id": 72,
+    "text": "¿Cuál es tu actor favorito?"
+  },
+  {
+    "id": 73,
+    "text": "¿Qué superpoder te gustaría tener?"
+  },
+  {
+    "id": 74,
+    "text": "Si pudieras vivir en cualquier época histórica, ¿cuál elegirías?"
+  },
+  {
+    "id": 75,
+    "text": "¿Cuál es tu videojuego favorito?"
+  },
+  {
+    "id": 76,
+    "text": "¿Qué idioma te gustaría aprender y por qué?"
+  },
+  {
+    "id": 77,
+    "text": "¿Si tu vida fuera una película, cuál sería el título?"
+  },
+  {
+    "id": 78,
+    "text": "¿Qué es lo más extraño que has comido en tu vida?"
+  },
+  {
+    "id": 79,
+    "text": "¿Cuál es tu recuerdo más feliz de la infancia?"
+  },
+  {
+    "id": 80,
+    "text": "Hola, mi nombre es ----, pero podés llamarme... esta noche."
+  },
+  {
+    "id": 81,
+    "text": "En realidad no soy así de alto. Estoy sentado sobre mi billetera."
+  },
+  {
+    "id": 82,
+    "text": "Si las miradas pudieran matar, serías un arma de destrucción masiva."
+  },
+  {
+    "id": 83,
+    "text": "Aposté con mis amigos a que no me animaba a sacarle charla a la persona más linda de este bar. ¿En qué decís que nos gastemos su plata?"
+  },
+  {
+    "id": 84,
+    "text": "Si me dieran un peso por cada vez que vi a una chica tan linda como vos, recién habría ganado mi primer peso."
+  },
+  {
+    "id": 85,
+    "text": "Che, me voy a dar una vuelta. ¿Te jode sostenerme esto?"
+  },
+  {
+    "id": 86,
+    "text": "¿Nos conocemos? Porque te parecés un montón a mi próxima novia."
+  },
+  {
+    "id": 87,
+    "text": "¿Querés ver una foto de la persona más linda del mundo? Bancá... dejame que encuentre un espejo."
+  },
+  {
+    "id": 88,
+    "text": "Nunca había creído en el amor a primera vista, pero eso fue antes de verte a vos."
+  },
+  {
+    "id": 89,
+    "text": "Disculpá, ¿me podés ayudar? Creo que me pasa algo en los ojos. No puedo dejar de mirarte"
+  },
+  {
+    "id": 90,
+    "text": "Espero que sepas primeros auxilios, porque me dejaste sin respiración."
+  },
+  {
+    "id": 91,
+    "text": "Me debés un trago. Porque cuando te miré se me cayó el mío"
+  },
+  {
+    "id": 92,
+    "text": "¿Sabés cuánto pesa un oso panda? Lo suficiente como para romper el hielo. ¿Cómo te llamás?"
+  },
+  {
+    "id": 93,
+    "text": "¿Sabés qué hora es? Al verte perdí la noción del tiempo."
+  },
+  {
+    "id": 94,
+    "text": "Amo la soltería, pero por vos lo pensaría."
+  },
+  {
+    "id": 95,
+    "text": "Disculpá, ¿te vi en el instagram de Bon o Bon alguna vez?"
+  },
+  {
+    "id": 96,
+    "text": "Hoy me compré una agenda y me faltaba lo más importante: tu número."
+  },
+  {
+    "id": 97,
+    "text": "Debés estar agotada, porque llevás todo el día dando vueltas por mi cabeza."
+  },
+  {
+    "id": 98,
+    "text": "No estoy seguro de ser tu tipo, ¿qué tal si nos damos una oportunidad para comprobarlo?"
+  },
+  {
+    "id": 99,
+    "text": "Me vas a tener que comprar un diccionario, porque al verte me quedé sin palabras."
+  },
+  {
+    "id": 100,
+    "text": "¿Te llamás WiFi? Porque realmente estoy sintiendo una conexión."
+  },
+  {
+    "id": 101,
+    "text": "Si tuviera cuatro monedas para darle a las cuatro personas más lindas del mundo, vos tendrías las cuatro."
+  },
+  {
+    "id": 102,
+    "text": "Si vos y yo fuéramos medias, haríamos un re par"
+  },
+  {
+    "id": 103,
+    "text": "No me digas si querés que te lleve a cenar. Simplemente sonreí para decir que sí, o hacé una triple vuelta carnero para decir que no."
+  },
+  {
+    "id": 104,
+    "text": "Creo que mi celular anda mal. ¿Podrías intentar llamarme para ver si funciona?"
+  },
+  {
+    "id": 105,
+    "text": "Nunca jugaría a las escondidas con vos, porque alguien como vos es imposible de encontrar."
+  },
+  {
+    "id": 106,
+    "text": "No siempre fui una persona religiosa. Pero ahora lo soy, porque sos la respuesta a todas mis oraciones."
+  },
+  {
+    "id": 107,
+    "text": "¿Te acordás de mí? Ah, es cierto, solo te conocí en mis sueños."
+  },
+  {
+    "id": 108,
+    "text": "Me preguntaba si tendrías un corazón extra... porque me acabás de robar el mío."
+  },
+  {
+    "id": 109,
+    "text": "¿La mejor cura para un lunes aburrido? Tener un buen fin de semana para recordar."
+  },
+  {
+    "id": 110,
+    "text": "¿Gato, perro o yo?"
+  },
+  {
+    "id": 111,
+    "text": "Te invito al cine. Al menos, si no te gusto, habrás visto una buena peli."
+  },
+  {
+    "id": 112,
+    "text": "Sos tan hermosa que me hiciste olvidar la frase que iba a usar para chamuyarte."
+  },
+  {
+    "id": 113,
+    "text": "Si fuera un gato, querría pasar mis siete vidas con vos"
+  },
+  {
+    "id": 114,
+    "text": "Siempre pensé que Disney era el lugar más feliz del mundo, pero eso era antes de tener la oportunidad de estar acá con vos."
+  },
+  {
+    "id": 115,
+    "text": "Disculpá, ¿tenés hora? Es que quiero acordarme del momento exacto en que me enamoré de vos."
+  },
+  {
+    "id": 116,
+    "text": "Iba a decir algo muy lindo... pero cuando te vi me quedé sin palabras."
+  },
+  {
+    "id": 117,
+    "text": "¿Me pegarías un pellizco? Sos tan linda que debo estar soñando."
+  },
+  {
+    "id": 118,
+    "text": "Debés ser maga. Porque cada vez que te miro, todos los demás desaparecen."
+  },
+  {
+    "id": 119,
+    "text": "¿Creés en el destino? Porque me parece que nos cruzamos por algo."
+  },
+  {
+    "id": 120,
+    "text": "¿Tenés un vacío en tu vida que pueda llenar?"
+  },
+  {
+    "id": 121,
+    "text": "¿Creés en el amor a primera vista, o paso por enfrente tuyo de nuevo?"
+  },
+  {
+    "id": 122,
+    "text": "Parece que perdí mi número de celular. ¿Me pasás el tuyo?"
+  },
+  {
+    "id": 123,
+    "text": "Si fueras una canción, serías el mejor tema del disco."
+  },
+  {
+    "id": 124,
+    "text": "Disculpá, ¿tenés un mapa? Me acabo de perder en tus ojos."
+  },
+  {
+    "id": 125,
+    "text": "Bueno, acá estoy. ¿Cuáles son tus otros dos deseos?"
+  },
+  {
+    "id": 126,
+    "text": "¿Creés en el amor a distancia o me acerco un poco más?"
+  },
+  {
+    "id": 127,
+    "text": "Si besarte fuera un error, desearía equivocarme una y otra vez."
+  },
+  {
+    "id": 128,
+    "text": "No soy fotógrafo, pero puedo imaginar un futuro perfecto juntos."
+  }
+]
